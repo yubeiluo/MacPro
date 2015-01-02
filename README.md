@@ -28,3 +28,13 @@ Shortcuts Reference
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
+
+### Linux Command List
+- change the current user's shell to zsh
+
+```
+chsh -s /bin/zsh
+```
+### Books
+
+- [Pro Git](http://book.douban.com/subject/3420144/)
