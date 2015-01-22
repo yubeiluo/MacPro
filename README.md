@@ -8,6 +8,9 @@ Shortcuts Reference
 
 1. How to open / hide the dock? *command + option + d*
 
+# Beginngers' Tutorial
+1. [Mac OS X Setup Guide](http://sourabhbajaj.com/mac-setup/)
+
 ### Software
 
 #### Shadowsocks
