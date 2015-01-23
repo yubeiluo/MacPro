@@ -11,6 +11,7 @@ Shortcuts Reference
 # Beginngers' Tutorial
 1. [Mac OS X Setup Guide](http://sourabhbajaj.com/mac-setup/)
 2. [Install Nginx, PHP-FPM, MySQL and phpMyAdmin on OS X Mavericks or Yosemite](http://blog.frd.mn/install-nginx-php-fpm-mysql-and-phpmyadmin-on-os-x-mavericks-using-homebrew/)
+3. [mac 开发环境安装使用 记录](http://www.cnblogs.com/cczw/p/3742577.html)
 
 ### Software
 
